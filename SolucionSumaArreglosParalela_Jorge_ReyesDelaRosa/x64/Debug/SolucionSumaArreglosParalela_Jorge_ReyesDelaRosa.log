@@ -1,0 +1,5 @@
+﻿  SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa.cpp
+C:\Users\juanp\source\repos\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa.cpp(24,18): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\juanp\source\repos\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa.cpp(25,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\juanp\source\repos\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa.cpp(20,9): warning C4101: 'i': variable local sin referencia
+  SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa.vcxproj -> C:\Users\juanp\source\repos\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa\x64\Debug\SolucionSumaArreglosParalela_Jorge_ReyesDelaRosa.exe
